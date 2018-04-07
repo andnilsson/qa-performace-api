@@ -16,5 +16,8 @@
     "graphql-cli": "2.15.8",
     "npm-run-all": "4.1.2",
     "prisma": "1.5.3"
+  },
+  "engines": {
+    "node": "5.6.0"
   }
 }
